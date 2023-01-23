@@ -23,22 +23,23 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello_Microverse] <a name="about-project"></a>
+# 📖 [Review your past codes] <a name="about-project"></a>
 
-> This is first part for building portfolio.
+> This is a review code by myself.
 
 > Objectives of this project are to learn how to:
+Create a new empty repo.
+Copy your code from the project that you completed during the Admissions Trial: - If you do not have the code from the Admissions Trial ask someone from your Standup Team to share their code with you. In that case, remember to add an attribution note and acknowledgment in your README file.
+Create a new branch for your copied code.
+Open a pull request.
+Play the role of the Code Reviewer:
+Follow the list from the article "How to give a code review?".
+Check if you have used semantic HTML tags (see examples of these tags in the first bullet of the best practices document below).
+Check if you applied HTML & CSS best practices.
+Add as many comments as possible in the given time and finish your review. Remember to add a minimum of 2 comments - you will definitely find something that could have been done better!
+Copy a link to the pull request and ask for a code review in your Student Dashboard as usual. (The only difference will be that the Code Reviewer won't check your code but the review you performed - isn't it a code review inception? ;))
 
-- Create feature-mobile branch first with main branch.
-- Building mobile version of portfolio first
-- Follow GitHub flow.
-- Open pull requests in GitHub.
-- Write descriptive, easy to understand commit messages.
-- Write short, detailed, easy to understand descriptions of pull requests.
-- Write a descriptive and easy to understand README in business English for every project submitted.
-- Demonstrate an ability to submit a project for code review.
-
-**[Micorverse-Porfolio]** is a project that has been
+**[Code Review ]** is a project that has been
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -98,7 +99,7 @@
 
 > link to this project.
 
-- [Hello Microverse](https://github.com/Ali-0111/Microverse_Portfolio.git)
+- [CR-PR](https://github.com/Ali-0111/2nd_week/edit/main/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
